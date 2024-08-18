@@ -1,0 +1,9 @@
+{
+	"capi": false,
+	"https": false,
+	"fallbackImage": "",
+	"framework": "svelte",
+	"layout": "inline",
+	"slug": "spiral-chart",
+	"uuid": "0c83c8df-a6ee-42f6-b47b-7e3f3f7ef104"
+}
